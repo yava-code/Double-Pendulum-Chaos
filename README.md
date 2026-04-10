@@ -1,3 +1,5 @@
+<img width="1121" height="876" alt="image" src="https://github.com/user-attachments/assets/43f062f6-9416-406b-ac69-4f6818f757ae" />
+
 # Double Pendulum Chaos
 
 An interactive **double pendulum chaos simulator** built with React, TypeScript, Vite, and Recharts.
